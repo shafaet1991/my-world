@@ -1,0 +1,62 @@
+body{
+    margin: 0ch;
+    font-family: 'Creepster', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.Orange-highlight{
+    color: tomato;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.top-banner{
+    background-repeat: no-repeat;
+    background-image:url("project/WEB-PORTFOLIO/IMAGES/my.png")
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url("project/WEB-PORTFOLIO/IMAGES/dream.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experiance{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+    background-color: white;
+}
+.experiance-area{
+    background-repeat: no-repeat;
+    background-image:url("project/WEB-PORTFOLIO/IMAGES/exp.png")
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(204, 255, 122), tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+
+text-align: center;
+}
